@@ -1,0 +1,29 @@
+{
+  "contractor_name": "Jane Doe",
+  "contractor_title": "Independent Contractor",
+  "address_line1": "123 Main St",
+  "address_line2": "Springfield, IL 62704",
+  "client_name": "Acme Corp",
+  "client_attn": "Attn: John Smith, CFO",
+  "client_email": "john@acme.example",
+  "client_phone": "(555) 010-0000",
+  "project_name": "Acme Website",
+  "period_label": "Summer 2026",
+  "work_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+  ],
+  "service_description": "Software development services",
+  "engagement_description": "Summer 2026 contract engagement",
+  "hourly_rate": 50.0,
+  "currency_symbol": "$",
+  "payment_method": "Preferred payment method: Direct deposit. Bank account details provided separately upon request.",
+  "payment_terms": "Terms: Due upon receipt",
+  "invoice_footer": "Thank you! Please reach out with any questions about this invoice.",
+  "next_invoice_number": 1,
+  "invoices_dir": "Invoices",
+  "chrome_path": null
+}
